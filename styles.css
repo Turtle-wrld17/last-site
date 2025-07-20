@@ -1349,7 +1349,7 @@ blockquote {
 .contact-hero-bg {
     position: relative; /* Nécessaire pour positionner l'overlay */
     padding: 8rem 0; /* Espace intérieur pour donner de la hauteur */
-    background-image: url('../images/abou-hero-img2.jpg'); /* CHEMIN VERS VOTRE IMAGE */
+    background-image: url('./images/abou-hero-img1.jpg'); /* CHEMIN VERS VOTRE IMAGE */
     background-size: cover; /* L'image couvre toute la section */
     background-position: center; /* L'image est centrée */
     color: var(--color-white); /* Texte en blanc */
